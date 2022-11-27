@@ -30,7 +30,7 @@
   <li> Copy the url from the address bar and open another instance in another tab or in incognito or on another browser.
 </ol>
 User First
-![SS-1](https://user-images.githubusercontent.com/46307002/204150295-22612814-82d3-491b-8e4d-6c261f12d16b.png)
+![SS-1](https://user-images.githubusercontent.com/46307002/204150413-8d2f436d-3d85-4887-9030-bc6b5f425295.png)
 
 User Second
 ![ss-2](https://user-images.githubusercontent.com/46307002/204150320-ca96df52-c3dc-4428-a6b9-e00203d2b64e.png)
